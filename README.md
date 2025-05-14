@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gitskyflux-cloudtasks-mcp-badge.png)](https://mseep.ai/app/gitskyflux-cloudtasks-mcp)
+
 # Cloud Tasks MCP Server
 [![smithery badge](https://smithery.ai/badge/@gitskyflux/cloudtasks-mcp)](https://smithery.ai/server/@gitskyflux/cloudtasks-mcp)
 
